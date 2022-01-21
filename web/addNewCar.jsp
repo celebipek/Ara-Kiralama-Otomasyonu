@@ -10,7 +10,7 @@
     <body>
     <div class="container">
         <div class="regbox" id="addcar">
-            <img class="avatar" id="addcaravatar" src="img/red.jpg">
+            <img class="avatar" id="addcaravatar" src="img/green.png">
             <h1>Yeni Araba Ekleme Sayfası</h1>
             <form action="NewCarServlet" method="get">
             <p>Plaka</p>

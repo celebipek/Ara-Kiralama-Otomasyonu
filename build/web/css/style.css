@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/star.jpg);
+    background-image: url(../img/pembiş.jpg) !important;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Arimo', sans-serif;
@@ -13,14 +13,15 @@ body {
     width: 80%;
     height: 100%;
     margin: 0 auto;
+  
 }
 
 .box,
 .regbox{
     width: 350px;
     height: 400px;
-    background: rgb(39 ,22 ,1,.9);;
-    margin: 0;
+    background: #d8bfd88e;
+    margin-left: 50;
     padding: 30px;
     top: 55%;
     left: 50%;
@@ -34,7 +35,7 @@ body {
 #addcar{
     width: 350px;
     height: 500px;
-    background: #2f3542;
+    background: #d8bfd88e;
     margin: 0;
     padding: 30px;
     top: 55%;
@@ -99,7 +100,7 @@ body {
     border: none;
     outline: none;
     height: 35px;
-    background: #769e38;
+    background: #708090;
     color: #000;
     font-size: 20px;
     border-radius: 20px;
@@ -113,7 +114,7 @@ body {
     border: none;
     outline: none;
     height: 35px;
-    background: #82c01a;
+    background: #dda0dd;
     color: #fff;
     font-size: 20px;
     border-radius: 20px;
@@ -129,7 +130,7 @@ body {
 }
 
 .box a:hover {
-    color: #eccc68;
+    color: #708090;
 }
 
 .regbox 
@@ -179,7 +180,7 @@ body {
     border: none;
     outline: none;
     height: 35px;
-    background: #eccc68;
+    background: #708090;
     color: #000;
     font-size: 20px;
     border-radius: 20px;
@@ -189,7 +190,7 @@ body {
     border: none;
     outline: none;
     height: 35px;
-    background: #ff6348;
+    background: #dda0dd;
     color: #fff;
     font-size: 20px;
     border-radius: 20px;
@@ -205,5 +206,5 @@ body {
 }
 
 .regbox a:hover {
-    color: #eccc68;
+    color: #708090;
 }

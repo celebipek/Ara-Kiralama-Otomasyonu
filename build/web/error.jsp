@@ -1,7 +1,7 @@
 <%-- 
     Document   : error
     Created on : 16 Ara 2021, 18:06:20
-    Author     : celeb
+    Author     : betul
 --%>
 
 <%@page contentType="text/html" isErrorPage="true" pageEncoding="UTF-8"%>

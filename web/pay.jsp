@@ -39,7 +39,7 @@
             .inner{
                 position: relative;
                 margin: 10px auto;
-                background-color: cadetblue;
+                background-color: #ffc0cb;
                 width: 310px;
                 display: block;
                 padding: 20px 0;

@@ -92,12 +92,12 @@
                                 <!-- Main row -->
                                 <div class="row">
                                     <!-- start of left side element-->
-                                    <section class="col-lg-1" style="background-color: cadetblue; left:5px; top: 5px; background-size: cover; box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);">
+                                    <section class="col-lg-1" style="background-color: 	#dda0dd; left:5px; top: 5px; background-size: cover; box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);">
                                         <center>
                                             <div class="admin-left-area">
                                                 <div class="profie-card">                        
                                                     <div class="image-card">
-                                                        <img src="img/man.png" style="width:80px ; height:90px; margin-top: 0.5cm;">
+                                                        <img src="img/woman.png" style="width:80px ; height:90px; margin-top: 0.5cm;">
                                                     </div>
                                                     <div class="name-card">
                                                         <span class="user-name" style="position: relative; color:#fff; text-transform: uppercase; font-weight: bold; letter-spacing: 1px;"><b>Hoşgeldin <%=user.getName()%></b><br></span>
@@ -115,7 +115,7 @@
                                                 </div><!-- /.container-fluid -->
                                             </div>
                                         </div>
-                                        <nav style="background-color: cadetblue; left:1px;">
+                                        <nav style="background-color: 	#dda0dd; left:1px;">
                                             <div class="container">
                                                 <div class="nav-wrapper">
                                                     <a class="brand-logo">Araç Kiralama Sayfası</a>

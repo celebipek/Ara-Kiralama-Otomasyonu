@@ -68,7 +68,7 @@
             background-color: ivory;
         }
         .inner{
-            background-color: cadetblue;
+            background-color: 	#dda0dd;
             position: relative;
             margin: 10px auto;
             width: 300px;
@@ -128,8 +128,8 @@
                             <div><input type="text" id="date2" name="date2" autocomplete="off" style="text-align: center;" required></div>
                         </div>
                         <div style="padding-top: 10px">
-                        <button type="submit" class="btn btn-primary">Öde</button>
-                        <button  class="btn btn-primary"><a href="userWelcomePage.jsp" style="color: #ffffff">İptal</a></button>
+                            <button type="submit" class="btn btn-primary" style="color:#ffc0cb"><a style="color:#dda0dd" >Öde</a> </button>
+                        <button  class="btn btn-primary"><a href="userWelcomePage.jsp" style="color:#dda0dd">İptal</a></button>
                         </div>
                         </center>
                     </form>
